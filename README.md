@@ -19,4 +19,3 @@ It is designed for iPhone UI, with a clean and user-friendly interface.
 
 ## How to View
 You can view the design directly in this repository by scrolling to the preview above.
-# login-page-using-figma
