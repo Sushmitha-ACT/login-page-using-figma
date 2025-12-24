@@ -4,7 +4,8 @@ This is a simple login page design created in Figma.
 It is designed for iPhone UI, with a clean and user-friendly interface.
 
 ## Preview
-![UI Login Page](ui-loginpage.png)
+![UI Login Page](<img width="402" height="874" alt="ui-loginpage" src="https://github.com/user-attachments/assets/d635073c-fa94-4644-be10-8f127a6b24d5" />
+)
 
 ## About
 - Designed for iPhone UI
@@ -18,4 +19,4 @@ It is designed for iPhone UI, with a clean and user-friendly interface.
 
 ## How to View
 You can view the design directly in this repository by scrolling to the preview above.
-# login-page-using-figma<img width="402" height="874" alt="ui-loginpage" src="https://github.com/user-attachments/assets/d635073c-fa94-4644-be10-8f127a6b24d5" />
+# login-page-using-figma
